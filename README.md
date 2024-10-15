@@ -2,7 +2,7 @@
 
 
 
-<h1>Hi, I'm Emmanuel, an <a href="https://www.linkedin.com/in/avilemmj/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Emmanuel, a motivated and resourceful <a href="https://www.linkedin.com/in/avilemmj/">IT student</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
